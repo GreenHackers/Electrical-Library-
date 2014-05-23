@@ -3,6 +3,7 @@ Electrical-Library-
 
 To simplify the electrical calculations. lot of areas to cover, electrical machines, electronic circuits, control systems etc..
 
+i have added some basic formulas. more big formulas to add.
 ##### frequency formula with TimePeriod
 
 <img src = "https://raw.githubusercontent.com/bhaskar4n/Electrical-Library-/master/images/images.jpg"/>
