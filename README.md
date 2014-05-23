@@ -60,5 +60,8 @@ i have added some basic formulas. more big formulas to add.
 ```
     setup.py install
 ```   
-    
-    
+##### requirements
+    python 2.7 
+##### screen shot
+<img src = "https://raw.githubusercontent.com/bhaskar4n/Electrical-Library-/master/images/Capture.PNG"/>
+
