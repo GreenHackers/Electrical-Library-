@@ -35,7 +35,6 @@ def current(p=0,r=0,v=0):
         return i
 def resistance(v=0,v2=0,i=0,i2=0,p=0):
      if (v and i)!=0:
-         
          r=v/i
          return r
      elif(p and i2)!=0:
@@ -61,6 +60,13 @@ def vrms(v):
 def irms(i):
     irms=(i/sqrt(2))
     return irms
+
+#energy stored in capacitor
+def cap_energy(c,v):
+    energy=((c)*pow(v,2))/2
+    return energy
+
+        
     
    
             
