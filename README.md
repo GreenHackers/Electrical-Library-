@@ -10,9 +10,16 @@ To simplify the electrical calculations
     a=freq(t=0.02)
     print a
     
+    d=freq(l=0.001,c=0.001)
+    print d
+    
     from electrical import*
     b=vrms(v=220) 
     print b
+    
+    i=irms(i=10)
+    print i
+    
 ```
 To calculate volatage, power , current, resistance value
 ```python
