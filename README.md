@@ -38,18 +38,20 @@ To simplify the electrical calculations
 
 <img src="https://raw.githubusercontent.com/bhaskar4n/Electrical-Library-/master/images/FormulaWheelElectronics.gif"/>
 
-##### code usage
+##### code usage ()
 
 
 ```python
    
    from electrical import*
+   # To calculate voltage (v=i*r)
    v=voltage(i=5,r=10)
    print v
    
    ###### put v2 instead of  V^2 and put i2 instead of i^2
    
    from electrical import*
+   #To calulate power value (p=(V^2)/r)
    p=power(v2=100,r=150)
    print p
    
