@@ -1,10 +1,7 @@
 Electrical-Library-
 ===================
 
-To simplify the electrical calculations. lot of areas to cover, electrical machines, electronic circuits, control systems etc...
-
-##### contribution
-More formulas to add. 
+To simplify the electrical calculations. lot of areas to cover, electrical machines, electronic circuits, control systems etc..
 
 ##### frequency formula with TimePeriod
 
