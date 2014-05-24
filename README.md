@@ -30,10 +30,10 @@ i have added some basic formulas.
 ##### Vrms and Irms formula
 ``` python
     from electrical import*
-    b=vrms(v=220) 
+    b=vrms(220) or vrms(v=220)
     print b
     
-    i=irms(i=10)
+    i=irms(10) or irms(i=10)
     print i
     
 ```
